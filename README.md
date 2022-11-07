@@ -1,5 +1,7 @@
 # simple_led_controller
 
+## simple_controller.zip
+
 This folder contains code to implement a very simple LED controller.
 
 The code runs on the DA14531 module. More information on the DA14531 and how to code and upload firmware is described here: 
@@ -10,4 +12,9 @@ To use the code, assuming that the DA145xx SDK is installed at C:\development\DA
       C:\development\DA145xx_SDK\6.0.16.1144\projects\target_apps\ble_examples
 
 Then, open the project using ARM Keil MDK (it is described at the link mentioned above) and build it and upload to the DA14531 module. How to do all of this is explained at the link mentioned earlier.
+
+## led_controller_export_rev1.zip
+
+This zip file contains PCB Gerber files, ready for sending to a PCB manufacturer.
+
 
